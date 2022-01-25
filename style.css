@@ -28,6 +28,10 @@ h2 {
 	background-color: skyblue;
 }
 
+figure {
+	margin: 0;
+}
+
 img {
 	padding-bottom: 20px;
 }
